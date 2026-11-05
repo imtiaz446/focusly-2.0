@@ -1,0 +1,6 @@
+{
+  "name": "FOCUSLY — Focus Beyond Limits",
+  "description": "Futuristic glassmorphism AI productivity SaaS platform with voice assistant, workspace tracking, pomodoro focus timer, tasks, projects, calendar, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
